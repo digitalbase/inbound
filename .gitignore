@@ -1,3 +1,8 @@
 .DS_Store
 package-lock.json
 node_modules
+/.idea/inbound.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
+/.idea/.gitignore
