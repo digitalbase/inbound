@@ -233,7 +233,7 @@ Matchers help identify and attach more semantic information to referral sources.
 To add matchers:
 
 1. Using existing matchers as an example, create your matcher at [/lib/matchers/](https://github.com/ashe540/inbound/tree/master/lib/matchers/).
-1. Add your matcher to the priority list of matchers in [index.js](https://github.com/ashe540/inbound/tree/master/lib/matchers/index.js).
+1. Add your matcher to the priority list of matchers in [index.cjs](https://github.com/ashe540/inbound/tree/master/lib/matchers/index.js).
 1. Add your test cases to [the test cases file](https://github.com/ashe540/inbound/tree/master/test/cases/referrers.json).
 1. Run and confirm that your test cases pass: ```npm test```
 1. Add your matcher to the [readme](https://github.com/ashe540/inbound/tree/master/README.md).
