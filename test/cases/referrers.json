@@ -1,5 +1,20 @@
 [
 	{
+		"url": "https://www.prezly.com?utm_source=saasworthy.com&utm_medium=cpc",
+		"referrer": "https://www.saasworthy.com/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "saasworthy",
+				"host": "www.saasworthy.com"
+			},
+			"campaign": {
+				"source": "saasworthy.com",
+				"medium": "cpc"
+			}
+		}
+	},
+	{
 		"url": "https://www.prezly.com?utm_source=sourceforge",
 		"referrer": null,
 		"result": {
@@ -121,6 +136,9 @@
 			"referrer": {
 				"type": "directory",
 				"engine": "sourceforge"
+			},
+			"campaign": {
+				"source": "sourceforge"
 			}
 		}
 	},
@@ -131,8 +149,12 @@
 			"referrer": {
 				"type": "directory",
 				"engine": "capterra",
-				"host": "www.google.com"
-
+				"host": "www.capterra.com"
+			},
+			"campaign": {
+				"campaign": "prsoftwareleadgen",
+				"medium": "capterra",
+				"source": "capterra"
 			}
 		}
 	},
@@ -144,6 +166,9 @@
 				"type": "directory",
 				"engine": "g2",
 				"host": "www.g2.com"
+			},
+			"campaign": {
+				"medium": "g2"
 			}
 		}
 	},
@@ -154,7 +179,7 @@
 			"referrer": {
 				"type": "directory",
 				"engine": "1000.tools",
-				"host": "www.1000.tools"
+				"host": "1000.tools"
 			}
 		}
 	},
@@ -168,6 +193,11 @@
 				"type": "directory",
 				"engine": "capterra",
 				"host": "www.capterra.nl"
+			},
+			"campaign": {
+				"campaign": "prsoftwareleadgen",
+				"medium": "capterra",
+				"source": "capterra"
 			}
 		}
 	},
@@ -178,7 +208,7 @@
 			"referrer": {
 				"type": "search",
 				"engine": "perplexity",
-				"host": "perplexity.ai"
+				"host": "www.perplexity.ai"
 			}
 		}
 	},
@@ -199,7 +229,7 @@
 			"referrer": {
 				"type": "search",
 				"engine": "brave",
-				"host": "brave.com"
+				"host": "search.brave.com"
 			}
 		}
 	},
@@ -212,6 +242,9 @@
 			"referrer": {
 				"type": "directory",
 				"engine": "sourceforge"
+			},
+			"campaign": {
+				"source": "sourceforge"
 			}
 		}
 	},
@@ -242,7 +275,7 @@
 		"result": {
 			"referrer": {
 				"type": "social",
-				"network": "twitter"
+				"network": "x/twitter"
 			}
 		}
 	},
@@ -252,7 +285,7 @@
 		"result": {
 			"referrer": {
 				"type": "social",
-				"network": "twitter"
+				"network": "x/twitter"
 			}
 		}
 	},
