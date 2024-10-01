@@ -6,6 +6,121 @@
 			"referrer": {
 				"type": "directory",
 				"engine": "sourceforge"
+			},
+			"campaign": {
+				"source": "sourceforge"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com/solution/PR-teams?utm_source=capterra&utm_campaign=prsoftwareleadgen&utm_medium=capterra",
+		"referrer": "https://www.capterra.com/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "capterra",
+				"host": "www.capterra.com"
+			},
+			"campaign": {
+				"campaign": "prsoftwareleadgen",
+				"medium": "capterra",
+				"source": "capterra"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com?utm_content=categories-pr-analytics-free&utm_medium=g2",
+		"referrer": "https://www.g2.com/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "g2",
+				"host": "www.g2.com"
+			},
+			"campaign": {
+				"medium": "g2"
+			}
+		}
+	},
+	{
+		"url": "",
+		"referrer": "https://1000.tools/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "1000.tools",
+				"host": "1000.tools"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com/solution/PR-teams?utm_source=capterra&utm_campaign=prsoftwareleadgen&utm_medium=capterra&gdmcid=cc862cf4-42dc-411b-b455-c019ea59d3d3",
+		"referrer": "https://www.capterra.nl/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "capterra",
+				"host": "www.capterra.nl"
+			},
+			"campaign": {
+				"campaign": "prsoftwareleadgen",
+				"medium": "capterra",
+				"source": "capterra"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "https://www.perplexity.ai/",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "perplexity",
+				"host": "www.perplexity.ai"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "https://www.youtube.com/",
+		"result": {
+			"referrer": {
+				"type": "social",
+				"network": "youtube"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "https://search.brave.com/",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "brave",
+				"host": "search.brave.com"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com?utm_source=sourceforge",
+		"referrer": "https://slashdot.org/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "sourceforge"
+			},
+			"campaign": {
+				"source": "sourceforge"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com?utm_source=sourceforge",
+		"referrer": null,
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "sourceforge"
 			}
 		}
 	},
