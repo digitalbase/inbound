@@ -1,5 +1,106 @@
 [
 	{
+		"url": "https://www.prezly.com?utm_source=sourceforge",
+		"referrer": null,
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "sourceforge"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com/solution/PR-teams?utm_source=capterra&utm_campaign=prsoftwareleadgen&utm_medium=capterra",
+		"referrer": "https://www.capterra.com/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "capterra",
+				"host": "www.google.com"
+
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com?utm_content=categories-pr-analytics-free&utm_medium=g2",
+		"referrer": "https://www.g2.com/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "g2",
+				"host": "www.g2.com"
+			}
+		}
+	},
+	{
+		"url": "",
+		"referrer": "https://1000.tools/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "1000.tools",
+				"host": "www.1000.tools"
+			}
+		}
+	},
+
+
+	{
+		"url": "https://www.prezly.com/solution/PR-teams?utm_source=capterra&utm_campaign=prsoftwareleadgen&utm_medium=capterra&gdmcid=cc862cf4-42dc-411b-b455-c019ea59d3d3",
+		"referrer": "https://www.capterra.nl/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "capterra",
+				"host": "www.capterra.nl"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "https://www.perplexity.ai/",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "perplexity",
+				"host": "perplexity.ai"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "https://www.youtube.com/",
+		"result": {
+			"referrer": {
+				"type": "social",
+				"network": "youtube"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "https://search.brave.com/",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "brave",
+				"host": "brave.com"
+			}
+		}
+	},
+
+
+	{
+		"url": "https://www.prezly.com?utm_source=sourceforge",
+		"referrer": "https://slashdot.org/",
+		"result": {
+			"referrer": {
+				"type": "directory",
+				"engine": "sourceforge"
+			}
+		}
+	},
+	{
 		"url": null,
 		"referrer": "https://www.google.co.uk/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d2\u0026ved\u003d0CEgQFjAB\u0026url\u003dhttps%3A%2F%2Fwww.datanitro.com%2F\u0026ei\u003d02ImUK--C6KX1AWbpIDICg\u0026usg\u003dAFQjCNHOS6IopwZTOOXX-temg3t9jph8SQ\u0026sig2\u003dtzL6mJCTxRdYnOxnc3Dl5A",
 		"result": {
