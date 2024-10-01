@@ -1,5 +1,51 @@
 [
 	{
+		"url": "https://www.prezly.com/feature/all-in-one-platform?utm_source=made-with-prezly&utm_medium=theme",
+		"referrer": "https://privacy.prezly.com/",
+		"result": {
+			"referrer": {
+				"type": "product",
+				"engine": "privacy-center",
+				"host": "privacy.prezly.com"
+			},
+			"campaign": {
+				"source": "made-with-prezly",
+				"medium": "theme"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com?utm_source=github&utm_campaign=@prezly/slate",
+		"referrer": "https://github.com/prezly/slate/tree/main?tab=readme-ov-file",
+		"result": {
+			"referrer": {
+				"type": "product",
+				"engine": "github",
+				"host": "github.com"
+			},
+			"campaign": {
+				"source": "github",
+				"campaign": "@prezly/slate"
+			}
+		}
+	},
+	{
+		"url": "https://www.prezly.com/?utm_source=room&utm_medium=story_sharebar&utm_campaign=586415",
+		"referrer": "https://newsroom.innogames.com/innogamess-worldwide-strategy-hit-forge-of-empires-joins-1-billion-superclub\n\t",
+		"result": {
+			"referrer": {
+				"type": "product",
+				"engine": "site",
+				"host": "newsroom.innogames.com"
+			},
+			"campaign": {
+				"source": "room",
+				"medium": "story_sharebar",
+				"campaign": "586415"
+			}
+		}
+	},
+	{
 		"url": "https://www.prezly.com?utm_source=saasworthy.com&utm_medium=cpc",
 		"referrer": "https://www.saasworthy.com/",
 		"result": {
